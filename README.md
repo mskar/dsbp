@@ -41,3 +41,6 @@
     - Xcode Command Line Tools: https://rstats.wtf/set-up-an-r-dev-environment.html#macos-system-prep
 - Linux
     - No setup required
+
+#### Session 2 Attendance
+- Martin
